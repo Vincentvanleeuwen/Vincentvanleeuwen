@@ -10,7 +10,7 @@
 
     Look through my projects to see what I've created, examples of languages/libraries used:
     
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)
+   
   </div>
   
   ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
