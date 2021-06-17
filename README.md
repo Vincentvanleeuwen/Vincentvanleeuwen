@@ -1,7 +1,6 @@
-{: .intro style="display:flex; flex-direction:row;"}
 ### Hi there 👋
 
-<section class="intro">
+<section class="intro" style="display:flex; flex-direction:row;">
   
   <div>
 I'm a JavaScript Developer that creates websites, webapps and apps for the web!
