@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="intro" style="display:flex; flex-direction:row;">{:intro}
+<div class="intro" >{:intro}
   
   <div>
 I'm a JavaScript Developer that creates websites, webapps and apps for the web!
@@ -36,3 +36,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+.intro {
+  display:flex; 
+  flex-direction:row;
+}
+</style>
