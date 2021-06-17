@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="intro" style="display:flex; flex-direction:row;">
+<div class="intro" style="display:flex; flex-direction:row;">{:intro}
   
   <div>
 I'm a JavaScript Developer that creates websites, webapps and apps for the web!
