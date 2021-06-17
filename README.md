@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div class="intro" >{:intro}
+<div class="intro">
   
   <div>
 I'm a JavaScript Developer that creates websites, webapps and apps for the web!
@@ -19,7 +19,7 @@ Look through my projects to see what I've created, examples of libraries used:
      ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
   </div>
 
-  </section>
+  </div>
 
 
 <!--
