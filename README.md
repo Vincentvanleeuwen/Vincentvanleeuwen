@@ -4,23 +4,15 @@
 <div class="intro">
   
   <div>
-I'm a JavaScript Developer that creates websites, webapps and apps for the web!
-I'm currently doing my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I'm taught to look at the web from the angle of a UX Designer. I strive for accessibility for everyone.
+    I'm a JavaScript Developer that creates websites, webapps and apps for the web!
+    I'm currently doing my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I'm taught to look at  the web from the angle of a UX Designer. I strive for accessibility for everyone.
 
-Look through my projects to see what I've created, examples of libraries used:
-- Vue.js
-- Nuxt
-- Socket IO
-- Node
-- Express
-- MongoDB
-- and many more..!
+    Look through my projects to see what I've created, examples of languages/libraries used:
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)
   </div>
   
-     ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
-  
-
-  </div>
+  ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
+</div>
 
 
 <!--
