@@ -13,9 +13,9 @@ the web from the angle of a UX Designer.
 
 Look through my projects to see what I've created, examples of languages/libraries used:
     
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)  
 </div>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)   
+ 
 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
