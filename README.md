@@ -15,8 +15,9 @@ Look through my projects to see what I've created, examples of languages/librari
     
 
 </div>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)   
-  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincentvanleeuwen)   
+
+
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
 </div>
 
