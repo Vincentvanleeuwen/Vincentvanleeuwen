@@ -1,4 +1,4 @@
-{::options parse_block_html="true" /}
+
 ### Hi there 👋
 
 <div class="intro">
@@ -36,10 +36,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <style>
 .intro {
   display:flex; 
   flex-direction:row;
 }
 </style>
+-->
+
