@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<section class="intro">
+  {: .intro style="display:flex; flex-direction:row;"}
+  <div>
 I'm a JavaScript Developer that creates websites, webapps and apps for the web!
 I'm currently doing my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I'm taught to look at the web from the angle of a UX Designer. I strive for accessibility for everyone.
-
-
-
 
 Look through my projects to see what I've created, examples of libraries used:
 - Vue.js
@@ -14,9 +14,14 @@ Look through my projects to see what I've created, examples of libraries used:
 - Express
 - MongoDB
 - and many more..!
+  </div>
+   <div>
+     ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
+  </div>
+
+  </section>
 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
 <!--
 **Vincentvanleeuwen/Vincentvanleeuwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
