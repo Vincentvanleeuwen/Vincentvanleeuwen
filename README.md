@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 ### Hi there 👋
 
 <div class="intro">
