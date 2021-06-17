@@ -16,9 +16,9 @@ Look through my projects to see what I've created, examples of libraries used:
 - MongoDB
 - and many more..!
   </div>
-   <div>
+  
      ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Vincentvanleeuwen&count_private=true&show_icons=true&hide=contribs)
-  </div>
+  
 
   </div>
 
