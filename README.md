@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+I'm a JavaScript Developer that creates websites, webapps and apps for the web!
+I'm currently doing my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I'm taught to look at the web from the angle of a UX Designer. I strive for accessibility for everyone.
+
+
+
+
+Look through my projects to see what I've created, examples of libraries used:
+- Vue.js
+- Nuxt
+- Socket IO
+- Node
+- Express
+- MongoDB
+- and many more..!
+
+
+
 <!--
 **Vincentvanleeuwen/Vincentvanleeuwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
