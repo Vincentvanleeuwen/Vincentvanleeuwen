@@ -4,12 +4,11 @@
 <div class="intro">
   
 <div>
-I'm a <b>JavaScript Developer</b> that creates websites, webapps and apps for the web!
+I'm a <b>JavaScript developer</b> that creates websites, web apps and apps!
   
-I'm currently doing my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I'm taught to look at 
-the web from the angle of a UX Designer. 
+I'm currently working at Momkai after graduating cum laude on my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I was taught to look at the web from the angle of a UX Designer. 
   
-  I strive for <b>accessibility</b> for everyone.
+I strive for <b>accessibility</b> for everyone.
 
 Look through my projects to see what I've created, examples of languages/libraries used:
     
