@@ -6,7 +6,7 @@
 <div>
 I'm a <b>JavaScript developer</b> that creates websites, web apps and apps!
   
-I'm currently working at Momkai after graduating cum laude on my Bachelors Communication & Multimedia Design at the Amsterdam University of Applied Sciences. Here I was taught to look at the web from the angle of a UX Designer. 
+I'm currently working at MyParcel as a Junior Frontend Developer
   
 I strive for <b>accessibility</b> for everyone.
 
